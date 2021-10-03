@@ -1,0 +1,14 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "practice javascript algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thuynguyen",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
+}
